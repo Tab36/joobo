@@ -1,1 +1,8 @@
+#sticky {
+    position: sticky;
+    top: 0;
+}
 
+#frame {
+    outline: 3px solid grey ;
+}
